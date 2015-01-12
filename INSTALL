@@ -1,0 +1,9 @@
+Building Lacecoin
+
+See doc/readme-qt.rst for instructions on building lacecoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lacecoin.
+
+See doc/build-*.txt for instructions on building lacecoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lacecoin.
